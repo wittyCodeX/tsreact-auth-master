@@ -1,5 +1,5 @@
 import React, { ReactElement } from "react";
-import { Route, Navigate } from "react-router-dom";
+import { Navigate } from "react-router-dom";
 import authToken from "../utils/authToken";
 
 const Public: React.FC = ({ element: Element }: any): ReactElement => {

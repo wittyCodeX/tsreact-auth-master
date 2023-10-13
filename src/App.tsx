@@ -1,5 +1,4 @@
 import React, { ReactElement } from "react";
-import "./App.css";
 import Routers from "./router";
 import authToken from "./utils/authToken";
 

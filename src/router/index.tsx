@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import PublicRouter from "./Public";
 import PrivateRouter from "./Private";
